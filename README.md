@@ -9,13 +9,13 @@ This project provides a C++ implementation of the Canonical Huffman coding algor
 * **Jhon Jairo Pulgarin Restrepo**
 ---
 
-## 🎥 Defense Video
+## Defense Video
 
 ****
 
 ---
 
-## 🚀 How to Compile and Run
+## How to Compile and Run
 
 This project is written in C++20 and has no external dependencies. It can be compiled using g++.
 
