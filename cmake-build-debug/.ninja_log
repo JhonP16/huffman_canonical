@@ -1,0 +1,16 @@
+# ninja log v6
+60	2867	7811523254815245	CMakeFiles/huffman_canonical.dir/src/test_huffman.cpp.obj	44d32fb6e1f879a6
+14	1459	7811564389937282	CMakeFiles/huffman_canonical.dir/src/main.cpp.obj	2ef3e471df728120
+66	5453	7811560475694982	CMakeFiles/huffman_canonical.dir/src/huffman.cpp.obj	771fd8f7ae0da479
+10	632	7812117412508900	build.ninja	509eac6b42a655c7
+10	632	7812117412348876	C:/Users/jhonp/Documents/huffman_canonical/cmake-build-debug/cmake_install.cmake	509eac6b42a655c7
+1461	1936	7811564404407313	huffman_canonical.exe	3e849f24c02b478d
+46	11120	7812121730978010	CMakeFiles/huffman_canonical.dir/src/main.cpp.obj	2ef3e471df728120
+11137	12480	7812121841873063	huffman_canonical.exe	3e849f24c02b478d
+200	19349	7812122958663133	CMakeFiles/huffman_canonical.dir/src/main.cpp.obj	2ef3e471df728120
+19353	21538	7812123150188666	huffman_canonical.exe	3e849f24c02b478d
+33	7193	7812129692882292	CMakeFiles/huffman_canonical.dir/src/huffman.cpp.obj	771fd8f7ae0da479
+7196	7885	7812129764511640	huffman_canonical.exe	3e849f24c02b478d
+67	5894	7812148740696122	CMakeFiles/huffman_canonical.dir/src/huffman.cpp.obj	771fd8f7ae0da479
+36	7557	7812148740386194	CMakeFiles/huffman_canonical.dir/src/main.cpp.obj	2ef3e471df728120
+7558	8285	7812148815592567	huffman_canonical.exe	3e849f24c02b478d

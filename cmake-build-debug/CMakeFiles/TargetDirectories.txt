@@ -1,0 +1,3 @@
+C:/Users/jhonp/Documents/huffman_canonical/cmake-build-debug/CMakeFiles/huffman_canonical.dir
+C:/Users/jhonp/Documents/huffman_canonical/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jhonp/Documents/huffman_canonical/cmake-build-debug/CMakeFiles/rebuild_cache.dir
