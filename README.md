@@ -21,4 +21,7 @@ This project is written in C++20 and has no external dependencies. It can be com
 
 ### Prerequisites
 
-* A C++ compiler that supports the C++20 standard (e.g., g++ 7.0 or later).
+* A C++ compiler that supports the C++20 standard (e.g., g++ 7.0 or later).*
+
+## Tools Used
+We have used some AI tools such as Gemini AI
